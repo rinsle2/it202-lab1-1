@@ -38,8 +38,8 @@ Why aren't you seeing your name?  View the page source (right-click in the brows
 
 ## Connect your Codio Git to your GitHub repository
 
-12. On your GitHub repo page, click the green "Clone or Download" button, and copy the address in the dialog box.
+12. On your GitHub repo page, copy the address in the Quick Setup section.
 
-13. In your Codio terminal window, type ```git remote add master ``` followed by your repo address.  
+13. In your Codio terminal window, type ```git remote add origin ``` followed by your repo address.  
 
 
